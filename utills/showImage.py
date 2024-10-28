@@ -30,3 +30,6 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     main(args.npz_path, args.output_dir)
+
+
+
