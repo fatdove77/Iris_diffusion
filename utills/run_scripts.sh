@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # 定义源目录和输出目录
-SOURCE_DIR="/home/saturn/eyes/1024_sampling_classified/100000/images"
-OUTPUT_DIR="/home/saturn/eyes/1024_sampling_classified/100000/images"
-ORIGINAL_DIR="/home/saturn/eyes/1024_sampling_classified/100000/original_2048"
-NPZ_PATH="/home/saturn/eyes/1024_sampling_classified/100000/samples_2048x256x256x3.npz"
+SOURCE_DIR="/home/saturn/eyes/1024_sampling_classified/250000_7/images"
+OUTPUT_DIR="/home/saturn/eyes/1024_sampling_classified/250000_7/images"
+ORIGINAL_DIR="/home/saturn/eyes/1024_sampling_classified/250000_7/original_2048"
+NPZ_PATH="/home/saturn/eyes/1024_sampling_classified/250000_7/7samples_2048x256x256x3.npz"
 
 THRESHOLD_PERCENTILE=75  #laplacian threshold
 
